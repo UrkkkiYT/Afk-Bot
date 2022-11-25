@@ -1,12 +1,12 @@
 {
   "bot-account": {
-    "username": "bot",
+    "username": "opmanbot",
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "HypeMineMc.aternos.me",
     "port": 25565,
     "version": "1.17.1"
   },
@@ -35,15 +35,15 @@
       "repeat-delay": 60,
 
       "messages": [
-        "I'm a regular player ",
-        "My owner is urFate_ ",
-        "I want be alone ",
-        "Visit my GitHub page! (urFate/Afk-Bot)"
+        "Olen oikea pelaaja enkä botti :) ",
+        "JOKU KAMUKS ",
+        "AUTTAKAA ",
+        "Omg kattokaa! (urFate/Afk-Bot)"
       ]
     },
 
     "chat-log": true,
-    "auto-reconnect": false,
+    "auto-reconnect": true
     "auto-reconnect-delay": 5000
   }
 }
